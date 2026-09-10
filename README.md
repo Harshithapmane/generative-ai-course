@@ -12,6 +12,7 @@ Personal notes from a self-paced course on generative AI, kept day by day as I w
 |---|---|
 | [Day 1](day-01/notes.md) | What is generative AI? How it differs from traditional software, the main kinds of generative AI (text, image, audio, video, code), and why LLMs are the engine behind every text-based tool |
 | [Day 2](day-02/notes.md) | The tools: chat assistants (ChatGPT, Claude, Gemini), coding assistants, AI search, AI built into everyday apps, and how to think about free vs. paid tiers |
+| [Day 3](day-03/notes.md) | Everyday uses (writing, summarizing, learning, translating, brainstorming), uses at work (code, errors, documentation, logs, automation), and where AI falls short (confidently wrong, weak at math, no private knowledge) |
 
 *More days added as the course progresses.*
 
@@ -21,8 +22,10 @@ Personal notes from a self-paced course on generative AI, kept day by day as I w
 genai-learning-notes/
 ├── day-01/
 │   └── notes.md     # What is Generative AI?
-└── day-02/
-    └── notes.md     # The Tools: Chat Assistants, Coding Assistants, and More
+├── day-02/
+│   └── notes.md     # The Tools: Chat Assistants, Coding Assistants, and More
+└── day-03/
+    └── notes.md     # Everyday Uses, Work Uses, and Where AI Falls Short
 ```
 
 Each day gets its own folder as the course continues, keeping notes organized and easy to navigate topic by topic.
