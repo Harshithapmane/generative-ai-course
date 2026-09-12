@@ -14,6 +14,7 @@ Personal notes from a self-paced course on generative AI, kept day by day as I w
 | [Day 2](day-02/notes.md) | The tools: chat assistants (ChatGPT, Claude, Gemini), coding assistants, AI search, AI built into everyday apps, and how to think about free vs. paid tiers |
 | [Day 3](day-03/notes.md) | Everyday uses (writing, summarizing, learning, translating, brainstorming), uses at work (code, errors, documentation, logs, automation), and where AI falls short (confidently wrong, weak at math, no private knowledge) |
 | [Day 4](day-04/notes.md) | What an LLM actually does, tokens and why they matter for pricing, open vs. frontier models, and hallucinations — what they are and how to work around them |
+| [Day 5](day-05/notes.md) | Calling an LLM over an API instead of a chat window — raw `curl` + `jq` requests, comparing models by swapping the `model` field, and how `max_tokens` really works (including reasoning tokens) |
 
 *More days added as the course progresses.*
 
@@ -27,8 +28,10 @@ genai-learning-notes/
 │   └── notes.md     # The Tools: Chat Assistants, Coding Assistants, and More
 ├── day-03/
 │   └── notes.md     # Everyday Uses, Work Uses, and Where AI Falls Short
-└── day-04/
-    └── notes.md     # LLMs, Tokens, Model Types, and Hallucinations
+├── day-04/
+│   └── notes.md     # LLMs, Tokens, Model Types, and Hallucinations
+└── day-05/
+    └── notes.md     # Calling an LLM Over an API (curl + jq hands-on)
 ```
 
 Each day gets its own folder as the course continues, keeping notes organized and easy to navigate topic by topic.
